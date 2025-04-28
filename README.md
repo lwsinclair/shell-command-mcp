@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/egoist-shell-command-mcp)
+
 # shell-command-mcp
 
 MCP server for executing shell commands.
